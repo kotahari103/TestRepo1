@@ -10,6 +10,7 @@ public class A1 {
 		System.out.println("a4");
 		System.out.println("a5");
 		System.out.println("a6");
+		System.out.println("a7");
 
 	}
 
